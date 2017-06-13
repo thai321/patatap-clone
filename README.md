@@ -1,2 +1,2 @@
 # patatap-clone
-animation and sound with keybroad type
+animation and sound with keyboard typing
